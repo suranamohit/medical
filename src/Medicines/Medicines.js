@@ -14,13 +14,22 @@ class Medicines extends Component {
         <div class="container">
           <div class="row">
             <div class="col-sm">
-              <Cards />
+              <Cards
+                title="medicine 1"
+                about="Medicine is the science and practice of the diagnosis, treatment, and prevention of disease"
+              />
             </div>
             <div class="col-sm">
-              <Cards />
+              <Cards
+                title="medicine 2"
+                about="Medicine is the science and practice of the diagnosis, treatment, and prevention of disease"
+              />
             </div>
             <div class="col-sm">
-              <Cards />
+              <Cards
+                title="medicine 3"
+                about="Medicine is the science and practice of the diagnosis, treatment, and prevention of disease"
+              />
             </div>
           </div>
         </div>
