@@ -20,14 +20,14 @@ class Nav extends Component {
         >
           <span class="navbar-toggler-icon" />
         </button>
-        <a class="navbar-brand" href="#">
-          Medical Care
+        <a class="navbar-brand " href="#">
+          <b>Medical Care</b>
         </a>
         <div class="collapse navbar-collapse" id="navbarToggler">
-          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <ul class="navbar-nav  mt-2 mt-lg-0">
             <li class="nav-item active">
               <a class="nav-link" href="#about">
-                Home <span class="sr-only">(current)</span>
+                <b>Home</b> <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
