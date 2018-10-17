@@ -7,7 +7,7 @@ class Medicines extends Component {
   }
   render() {
     return (
-      <div class="container" id="medicines">
+      <div class="container scroll-center section-height" id="medicines">
         <h2>Medicines</h2>
         <p>This is about the Medicines</p>
 

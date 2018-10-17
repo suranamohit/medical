@@ -8,7 +8,7 @@ class Nav extends Component {
   }
   render() {
     return (
-      <nav class="navbar navbar-light bg-light shadow">
+      <nav class="navbar navbar-light bg-light shadow scroll-center">
         <button
           class="navbar-toggler"
           type="button"

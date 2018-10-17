@@ -7,7 +7,7 @@ class About extends Component {
   }
   render() {
     return (
-      <div id="about" class="container">
+      <div id="about" class="scroll-center container section-height">
         <h3>About us</h3>
         <p>
           Medical science has come a long way from tribal shaman dispensing

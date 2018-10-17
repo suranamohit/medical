@@ -6,7 +6,10 @@ class Footer extends Component {
   }
   render() {
     return (
-      <footer class="bg-dark page-footer " id="footer">
+      <footer
+        class="bg-dark page-footer scroll-center section-height"
+        id="footer"
+      >
         <div class="container text-light text-center text-md-left">
           <div class="row">
             <div class="col-md-4 col-lg-3 mr-auto my-md-4 my-0 mt-4 mb-1">
