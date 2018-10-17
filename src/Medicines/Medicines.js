@@ -10,7 +10,7 @@ class Medicines extends Component {
       <div class="container scroll-center section-height" id="medicines">
         <h2>Medicines</h2>
         <p>This is about the Medicines</p>
-
+        <br />
         <div class="container">
           <div class="row">
             <div class="col-sm">
