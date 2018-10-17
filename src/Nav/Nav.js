@@ -26,18 +26,18 @@ class Nav extends Component {
         <div class="collapse navbar-collapse" id="navbarToggler">
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item active">
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="#about">
                 Home <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="medicines">
+              <a class="nav-link" href="#medicines">
                 Medicines
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link " href="about">
-                About Us
+              <a class="nav-link " href="#footer">
+                More about us
               </a>
             </li>
           </ul>

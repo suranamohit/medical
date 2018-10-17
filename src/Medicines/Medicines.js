@@ -25,7 +25,7 @@ class Medicines extends Component {
                 about="Medicine is the science and practice of the diagnosis, treatment, and prevention of disease"
               />
             </div>
-            <div class="col-sm">
+            <div class="col-sm" style={{ padding: "5px;" }}>
               <Cards
                 title="medicine 3"
                 about="Medicine is the science and practice of the diagnosis, treatment, and prevention of disease"

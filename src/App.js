@@ -4,7 +4,7 @@ import "./App.css";
 import About from "./About/About";
 import Nav from "./Nav/Nav";
 import Medicines from "./Medicines/Medicines";
-
+import Footer from "./Footer/Footer";
 class App extends Component {
   render() {
     return (
@@ -21,6 +21,7 @@ class App extends Component {
         <br />
         <br />
         <br />
+        <Footer />
       </div>
     );
   }
